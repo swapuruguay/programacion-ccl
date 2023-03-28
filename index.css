@@ -29,5 +29,20 @@ p {
 .top-left {
   top: 0;
   left: 0;
-
 }
+
+.top-center {}
+
+.top-right {}
+
+.center-left {}
+
+.center-center {}
+
+.center-right {}
+
+.bottom-left {}
+
+.bottom-center {}
+
+.bottom-right {}
